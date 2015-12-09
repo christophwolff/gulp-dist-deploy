@@ -1,0 +1,29 @@
+{
+  "name": "gulp-dist-deploy",
+  "version": "0.0.0",
+  "description": "A package to publish your build to a distribution branch on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophwolff/gulp-dist-deploy.git"
+  },
+  "keywords": [
+    "Distribution",
+    "gulp",
+    "github",
+    "build"
+  ],
+  "author": "Christoph Wolff <cw@christophwolff.de> (http://christophwolff.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophwolff/gulp-dist-deploy/issues"
+  },
+  "homepage": "https://github.com/christophwolff/gulp-dist-deploy#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
